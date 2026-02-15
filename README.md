@@ -167,19 +167,6 @@ dist/
 
 ---
 
-## 🌍 Deployment Options
-
-Frontend can be deployed to:
-
-* Vercel (Recommended)
-* Netlify
-* AWS S3
-* GitHub Pages
-
----
-
-## 🔮 Future Enhancements
-
 * Charts using Recharts / Chart.js
 * Role-based dashboards
 * Export to Excel
@@ -194,6 +181,4 @@ Abhishek Hiwarkar
 Enterprise MIS & KPI Monitoring System
 
 
-
-Ab bolo deploy karna hai kya? 🚀
 ```
