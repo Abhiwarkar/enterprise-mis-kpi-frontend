@@ -56,10 +56,6 @@ Controller → Service → Repository → Database
 - Department-wise performance tracking
 - Monthly performance visibility
 
-### ✅ Security
-- JWT Authentication
-- Secured API endpoints
-- Role-based access ready
 
 ---
 
