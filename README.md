@@ -1,7 +1,4 @@
-Samajh gaya 😄
-Ab **Frontend repo ke liye proper professional README** de raha hoon.
 
-Ye `enterprise-mis-kpi-frontend` repo me daalna.
 
 ---
 
